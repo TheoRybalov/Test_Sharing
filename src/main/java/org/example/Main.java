@@ -15,11 +15,7 @@ public class Main {
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
 
-            //проверим ка как тут работают коммиты от других пользователей
-            System.out.println("Это Федя");
-            System.out.println("Это Федя 2");
-            //снова проверим а как это так теперь работает
-            //чтобы точно
+
         }
     }
 }
